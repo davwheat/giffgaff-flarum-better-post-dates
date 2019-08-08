@@ -3,7 +3,7 @@
 // @description    Some people don't like the 47 minutes ago, 2 hours ago, a day ago styling of dates on the new forum, so I made something to fix that!
 // @author         David Wheatley <davidwheatley03@gmail.com> (https://github.com/davwheat/giffgaff-flarum-better-post-dates)
 // @namespace      https://github.com/davwheat/giffgaff-flarum-better-post-dates
-// @version        1.5.0
+// @version        1.5.1
 // @icon           https://github.com/davwheat/giffgaff-flarum-better-post-dates/blob/master/icon.png?raw=true
 // @match          *://preview.community.giffgaff.com/*
 // @grant          none
@@ -41,8 +41,8 @@ setInterval(() => {
         console.log("Reapplied 'fixed' dates. (This is done to ");
 
         HL = history.length;
-    }, 750);
-}, 500);
+    }, 1000);
+}, 2000);
 
 $(() => {
     let twoDaysAgoDate = new Date();
