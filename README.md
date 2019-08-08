@@ -1,6 +1,10 @@
 # giffgaff-flarum-better-post-dates
 
-This Chrome extension replaces some dates on giffgaff's Flarum forum.
+This Chrome extension changes how dates are shown on giffgaff's new Flarum forum.
+
+Some people don't like the `47 minutes ago`, `2 hours ago`, `a day ago` styling of dates on the new forum, so I made something to fix that!
+
+Dates within the past two days (date based, not 48 hours) will have their date text replaced to something nicer and accurate. See the example table below.
 
 ## Example
 
