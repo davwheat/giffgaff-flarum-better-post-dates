@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Better Flarum Post Dates",
+  "version": "1.2",
+  "content_scripts": [
+    {
+      "matches": [
+        "http://preview.community.giffgaff.com/*",
+        "https://preview.community.giffgaff.com/*"
+      ],
+      "js": ["jquery-3.4.1.slim.min.js", "content.js"]
+    }
+  ],
+  "browser_action": {
+    "default_icon": "icon.png"
+  }
+}
