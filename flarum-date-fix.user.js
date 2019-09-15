@@ -11,8 +11,11 @@
 // ==/UserScript==
 
 let HL;
+let lastSet = Date.now();
 setInterval(() => {
-    if (HL == history.length) return;
+    if (HL == history.length && Date.now() - lastSet <= 20000) return;
+
+    lastSet = Date.now();
 
     setTimeout(() => {
         let twoDaysAgoDate = new Date();
@@ -41,8 +44,9 @@ setInterval(() => {
         console.log("Reapplied 'fixed' dates. (This is done to ");
 
         HL = history.length;
+        lastSet = Date.now();
     }, 1000);
-}, 2000);
+}, 1000);
 
 $(() => {
     let twoDaysAgoDate = new Date();
