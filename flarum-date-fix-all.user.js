@@ -18,7 +18,7 @@ setInterval(() => {
     });
     
     console.log("Reapplied 'fixed' dates. (Prevents Flarum overwriting the times when the number of minutes/seconds changes)");
-}, 2500);
+}, 4000);
 
 $(() => {
     $(".Post .PostMeta time[data-humantime=true]").each((_, el) => {
