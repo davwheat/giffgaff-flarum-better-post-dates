@@ -6,10 +6,20 @@ Some people don't like the `47 minutes ago`, `2 hours ago`, `a day ago` dates on
 
 Dates within the past two days (date based, not 48 hours) will have their date text replaced to something nicer and accurate. See the example table below.
 
-## Install Instructions
+## Installation
+
+### Choose a version
+
+There are two different versions of the script: **original** and **alternative**.
+
+**Alternative** shows ALL timestamps in `DD/MM/YYYY at HH:MM:SS`.
+
+**Original** only changes timestamps from the past two days, as shown [below](#Example).
+
+### Instructions
 
 1. Install **TamperMonkey** from the [Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) or the [Firefox Addons Store](https://addons.mozilla.org/en-GB/firefox/addon/tampermonkey/)
-2. Click [here](https://github.com/davwheat/giffgaff-flarum-better-post-dates/raw/master/flarum-date-fix.user.js)
+2. Choose your version: [original](https://github.com/davwheat/giffgaff-flarum-better-post-dates/raw/master/flarum-date-fix.user.js), [alternative](https://github.com/davwheat/giffgaff-flarum-better-post-dates/raw/master/flarum-date-fix-all.user.js).
 3. Click **Install**
 4. Enjoy better post dates
 
@@ -17,7 +27,7 @@ Dates within the past two days (date based, not 48 hours) will have their date t
 
 * [Flarum Dark Mode](https://github.com/davwheat/giffgaff-flarum-dark-mode)
 
-## Example
+## Original Example
 
 Current date: 08/08/2019 23:00 (DD/MM/YYYY)
 
