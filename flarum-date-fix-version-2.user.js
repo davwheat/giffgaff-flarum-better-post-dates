@@ -35,7 +35,7 @@ $.initialize(".Post .PostMeta time[data-humantime=true]", function()  {
                 { hour: "2-digit", minute: "2-digit" }
             )}`
         );
+        
+        console.log("Applied better date.")
     }
-    
-    console.log("Applied better date.")
 });
