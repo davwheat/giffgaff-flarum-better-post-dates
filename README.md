@@ -20,8 +20,8 @@ Version #2 only changes timestamps from the past two days into the above format.
 
 ### Instructions
 
-1. Install **TamperMonkey** from the [Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) or the [Firefox Addons Store](https://addons.mozilla.org/en-GB/firefox/addon/tampermonkey/)
-2. Choose your version: [Version #1](https://github.com/davwheat/giffgaff-flarum-better-post-dates/raw/master/flarum-date-fix-version-1.user.js), [Version #1](https://github.com/davwheat/giffgaff-flarum-better-post-dates/raw/master/flarum-date-fix-version-2.user.js).
+1. Install **TamperMonkey** from the [Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) or the [Firefox Addons Store](https://addons.mozilla.org/en-GB/firefox/addon/tampermonkey/) (or any other browser extension store).
+2. Choose your version: [Version #1](https://github.com/davwheat/giffgaff-flarum-better-post-dates/raw/master/flarum-date-fix-version-1.user.js), [Version #2](https://github.com/davwheat/giffgaff-flarum-better-post-dates/raw/master/flarum-date-fix-version-2.user.js).
 3. Click **Install**
 4. Enjoy better post dates
 
