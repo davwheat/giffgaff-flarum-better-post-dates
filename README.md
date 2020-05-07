@@ -1,6 +1,6 @@
 # Flarum Better Post Dates
 
-This Chrome extension changes how dates are shown on giffgaff's new Flarum forum.
+This TamperMonkey user script changes how dates are shown on giffgaff's new Flarum forum.
 
 Some people don't like the `47 minutes ago`, `2 hours ago`, `a day ago` dates on the new forum, so I made something to fix that!
 
