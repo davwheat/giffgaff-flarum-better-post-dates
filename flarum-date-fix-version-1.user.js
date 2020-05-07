@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name           giffgaff Flarum date fixer (ALT)
+// @name           giffgaff Flarum date fixer Version #1
 // @description    Some people don't like the 47 minutes ago, 2 hours ago, a day ago styling of dates on the new forum, so I made something to fix that!
 // @author         David Wheatley <davidwheatley03@gmail.com> (https://github.com/davwheat/giffgaff-flarum-better-post-dates)
 // @namespace      https://github.com/davwheat/giffgaff-flarum-better-post-dates
-// @version        3.0.0
+// @version        3.1.0
 // @icon           https://github.com/davwheat/giffgaff-flarum-better-post-dates/blob/master/icon.png?raw=true
 // @match          *://community.giffgaff.com/*
 // @grant          none
