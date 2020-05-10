@@ -27,7 +27,8 @@ Version #2 only changes timestamps from the past two days into the above format.
 
 ## Also see
 
-* [H&S Auto-refresh](https://github.com/davwheat/giffgaff-flarum-auto-refresh#readme)
+* [Help and Support auto refresh](https://github.com/davwheat/giffgaff-flarum-auto-refresh#readme)
+* [Flarum Infinite Scrolling](https://github.com/davwheat/giffgaff-flarum-infinite-scroll#readme)
 
 ## Examples
 
